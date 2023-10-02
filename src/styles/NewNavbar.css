@@ -1,0 +1,32 @@
+.new-navbar-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.new-navbar-text {
+  color: #100a42;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.new-navbar-profile {
+  width: 40px;
+  height: 40px;
+}
+
+.new-navbar-username {
+  color: #141414;
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.new-navbar-dropdown {
+  width: 24px;
+  height: 24px;
+}

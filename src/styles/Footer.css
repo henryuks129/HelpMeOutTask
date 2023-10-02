@@ -1,0 +1,39 @@
+.footer-main-body {
+  background: #120b48;
+}
+
+.footer-icon-body {
+  margin-bottom: 4.5rem;
+}
+
+.footer-inner {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.footer-icon-text {
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.footer-header {
+  font-family: "Sora", sans-serif;
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.footer-header-text {
+  color: #fff;
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

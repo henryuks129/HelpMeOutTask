@@ -1,0 +1,42 @@
+.works-number-icons {
+  width: 55px;
+  height: 55px;
+}
+
+.works-main-icon {
+  width: 356.784px;
+  height: 250.388px;
+  flex-shrink: 0;
+  color: #141414;
+  font-family: "Sora", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.works-header {
+  color: #1b233d;
+  font-family: "Inter", sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.works-header-text {
+  color: #616163;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 151.3%;
+  width: 355px;
+}
+
+.works-video-repo {
+  width: 356.784px;
+  height: 250.388px;
+  stroke-width: 1.268px;
+  stroke: rgba(27, 35, 61, 0.03);
+}

@@ -1,0 +1,33 @@
+.navbar-body {
+  border-bottom: 2px solid #f4f6f8;
+  /* position: sticky-top; */
+  background: #fff;
+}
+
+.navbar-icon-header {
+  color: #100a42;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.navbar-header-text {
+  font-family: "Work Sans", sans-serif;
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.navbar-route {
+  color: #120b48;
+  text-align: center;
+  font-family: "Sora", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
